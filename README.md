@@ -20,6 +20,8 @@ This project provides tools and utilities for connecting to WordPress sites and 
    git clone https://github.com/AmVa456/wordPress.git
    cd wordPress
    ```
+   
+   Note: The repository name uses "wordPress" with a lowercase 'w'.
 
 2. Follow the setup instructions specific to your use case.
 
@@ -43,7 +45,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is available for use in accordance with the repository's license terms.
+Please refer to the repository for license information.
 
 ## Support
 
